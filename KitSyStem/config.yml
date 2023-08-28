@@ -1,0 +1,129 @@
+Kits:
+  Marser:
+    Permission: Kits.Marser
+    0:
+      Name: '&5Marser Sword!'
+      Type: 267
+      Enchants:
+      - '16:2'
+
+    1:
+      Name: '&5Marser Bow!'
+      Type: 261
+      Enchants:
+      - '48:1'
+      - '50:1'
+
+    2:
+      Name: '&5Marser Rod!'
+      Type: 346
+
+    8:
+      Name: '&5Marser Arrow'
+      Count: 10
+      Type: 262
+
+    36:
+      Name: '&5Marser Boots'
+      Type: 313
+      
+    37:
+      Name: '&5Marser Legs'
+      Type: 304
+
+    38:
+      Name: '&5Marser Chest'
+      Type: 307
+
+    39:
+      Name: '&5Marser Helmet'
+      Type: 306
+
+  VIP:
+    Permission: Kits.VIP
+    0:
+      Name: '&aVIP Sword!'
+      Type: 267
+      Enchants:
+      - '16:2'
+
+    1:
+      Name: '&aVIP Bow!'
+      Type: 261
+      Enchants:
+      - '48:1'
+      - '50:1'
+
+    2:
+      Name: '&aVIP Rod!'
+      Type: 346
+
+    8:
+      Name: '&aVIP Arrow'
+      Count: 10
+      Type: 262
+
+    36:
+      Name: '&aVIP Boots'
+      Type: 313
+      
+    37:
+      Name: '&aVIP Legs'
+      Type: 304
+
+    38:
+      Name: '&aVIP Chest'
+      Type: 307
+
+    39:
+      Name: '&aVIP Helmet'
+      Type: 306
+
+  Member:
+    0:
+      Name: '&8Member Sword!'
+      Type: 267
+      Enchants:
+      - '16:2'
+
+    1:
+      Name: '&8Member Bow!'
+      Type: 261
+      Enchants:
+      - '48:1'
+      - '50:1'
+
+    2 :
+      Name: '&8Member Rod!'
+      Type: 346
+
+    8:
+      Name: '&8Member Arrow'
+      Count: 10
+      Type: 262
+
+    36:
+      Name: '&8Member Boots'
+      Type: 313
+      
+    37:
+      Name: '&8Member Legs'
+      Type: 304
+
+    38:
+      Name: '&8Member Chest'
+      Type: 307
+
+    39:
+      Name: '&8Member Helmet'
+      Type: 306
+
+ActiveKits:
+- 'Marser'
+- 'VIP'
+- 'Member'
+
+ActiveWorlds:
+- 'SkyPvP_1'
+- 'SkyPvP_2'
+- 'SkyPvP_3'
