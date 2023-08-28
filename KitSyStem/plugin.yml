@@ -1,0 +1,5 @@
+name: KitsSystem
+version: 1.0
+author: Foxy
+main: com.foxy.kits.Main
+description: Custom KitsSystem With Worlds System
